@@ -1,6 +1,6 @@
 #Author: Firdavs Babaev
 #Date: 11/15/2023
-#Purpose: Assignment 20
+#Purpose: Dartmouth Maps Project
 
 from cs1lib import *
 RADIUS = 7.5
