@@ -1,6 +1,6 @@
 #Author: Firdavs Babaev
 #Date: 11/15/2023
-#Purpose: Assignment 20
+#Purpose: Dartmouth Maps Project
 
 from collections import deque
 def breadth_first(start, goal):
