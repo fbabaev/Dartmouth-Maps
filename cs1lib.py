@@ -1,7 +1,3 @@
-#Author: Firdavs Babaev
-#Date: 11/15/2023
-#Purpose: Assignment 20
-
 from math import pi
 import sys, os.path
 from PyQt5.QtCore import *
