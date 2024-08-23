@@ -1,4 +1,3 @@
-```markdown
 # Dartmouth Maps Project
 ### Author: Firdavs Babaev  
 ### Date: November 15, 2023
