@@ -4,7 +4,7 @@
 
 from Vertex import Vertex
 
-def load_graph(file_name):
+def load_grap(file_name):
 
 
 #first pass: creates the vertex objects and dictionary entries
