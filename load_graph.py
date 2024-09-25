@@ -11,7 +11,7 @@ def load_graph(file_name):
     file = open(file_name, "r")
     vertex_dictionary = {}
 
-    for line in fil:
+    for line in file:
         data = line.strip().split(";")
 
         #Extract vertex name, adjacent vertices, and coordinates
