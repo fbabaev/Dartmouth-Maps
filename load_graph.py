@@ -4,14 +4,14 @@
 
 from Vertex import Vertex
 
-def load_grap(file_name):
+def load_graph(file_name):
 
 
 #first pass: creates the vertex objects and dictionary entries
     file = open(file_name, "r")
     vertex_dictionary = {}
 
-    for line in file:
+    for line in fil:
         data = line.strip().split(";")
 
         #Extract vertex name, adjacent vertices, and coordinates
